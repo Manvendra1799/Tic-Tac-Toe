@@ -1,0 +1,35 @@
+step 1: designing the basic layout.
+(adding HTML & CSS TO IT.)
+
+step 2: add logic to your javascript.
+
+What is the difference between for..in and for..of?
+
+for...in => loops over the keys (property names) of an object.
+for..of =>Iterates over the values of iterable objects (e.g., arrays, strings, maps, sets).
+
+what all concepts we have used in javascript?
+
+1. arrays
+2. booleans
+3. dom ,classlist(),style.property
+4. event listener
+5. Enable 
+6. disable
+7. template literals
+
+
+//provide me the core concepts that are used in the book javascript in less than 50 pages use it!!
+tic-tac-toe?
+logic part->
+1. how to makes boxes show 0->X->0->X..
+2. how to check Winner
+3. how to show Winner
+4. how to trigger reset game
+5. how to trigger new game
+6. how to use hide functionality 
+7. how to enable buttons
+8. how to disable buttons
+9. how to make the winner show on the webpage?
+10. each time user click reset game value should be reseted?
+11. after winner is declared new game is triggered ?
